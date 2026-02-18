@@ -1,3 +1,4 @@
+#Movie Maniac
 <div align="center">🎬 Movie Maniac – Movie Review App</div>
 <div align="center">
 
